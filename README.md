@@ -34,7 +34,7 @@
 
 A function has been designed for each section and to prevent errors during execution, input control commands have been used because in each section it was necessary to enter a number or decimal number, and if the wrong data was entered, the calculations would not be performed correctly.
 
-The app is undergoing an update, introducing a brand-new section dedicated to recommending the most suitable extraction method for your specific needs. This feature will empower users to make informed decisions by considering key factors such as data type, extraction purpose, data complexity, and computational resources.
+The app is undergoing an update, introducing a brand-new section dedicated to recommending the most suitable extraction method for your specific needs. This feature will empower users to make informed decisions by considering key factors such as data type, extraction purpose, data complexity, and computational resources. With this valuable addition, the app continues to evolve as a comprehensive and user-friendly tool. Stay tuned for the update.
 
 
 
